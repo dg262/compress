@@ -1,0 +1,31 @@
+{
+    "@programName": "ZAP",
+    "@version": "2.15.0",
+    "@generated": "Wed, 28 Aug 2024 11:21:57",
+    "site":[ 
+        {
+            "@name": "https://example.org",
+            "@host": "example.org",
+            "@port": "443",
+            "@ssl": "true",
+            "alerts": [ 
+            ]
+        },
+        {
+            "@name": "https://code.jquery.com",
+            "@host": "code.jquery.com",
+            "@port": "443",
+            "@ssl": "true",
+            "alerts": [ 
+            ]
+        },
+        {
+            "@name": "https://ajax.googleapis.com",
+            "@host": "ajax.googleapis.com",
+            "@port": "443",
+            "@ssl": "true",
+            "alerts": [ 
+            ]
+        }
+    ]
+}
